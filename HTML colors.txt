@@ -1,0 +1,12 @@
+attributes:
+- style="background-color:...;"// màu nền
+- style="color:...;"// màu chữ
+- style="border:...;"// màu khung
+màu:
+- theo tên: tomato, orange, dofgerBlue, gray, violet,... 
+- theo giá trị:
+	+ rgb(red,green,blue)//rgb(255,0,25)
+	+ hex value: #rrggbb //#ff0000
+	+ hsl(hue,saturation,lightness) //hsl(1,100%,50%)
+	+ rgba(red,green,blue,alpha) //rgba(255,99,71,0.2)
+	+ hsla(hue,saturation,lightness,alpha)
